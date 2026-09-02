@@ -6,7 +6,7 @@ The project focuses on validating a complete cart API flow from session/token cr
 
 ## API Testing Flow
 
-<p align="center">
+<p align="center"> 
   <img src="docs/screenshots/cart-api-flow.gif"
        alt="OpenCart Cart API Testing Flow"
        width="1100">
